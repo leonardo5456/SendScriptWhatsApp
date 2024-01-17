@@ -6,14 +6,12 @@ On this code has the example the Shrek movie and BeeMovie scripts, but you can a
 
 ## USE
 
-Open [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Or
-Open [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Open the script files for the movie you want to send, there is a general_template for general use, you can put whatever you want on the script to send to a conversation on whatsApp line by line
 
-Copy the code or all the content (click on "draw -> ctrl+a -> ctrl+c)
-
-Open WhatsApp web and the browser console or command line
-
+- Copy the code or all the content (click on "draw -> ctrl+a -> ctrl+c)
+- Open WhatsApp web and the browser console or command line
+- Open a conversation on WhatsAppWeb
+  
 |  ⚠️ warning, do not update Google chrome to lastest version, because it is bloocking scripts on the command line.
 |--|
 |  ***to fix this, the developer console expects to receive a textual confirmation by typing in the console "allow scripts"***
